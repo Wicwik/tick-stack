@@ -1,2 +1,2 @@
 # tick-stack
-Telegraf, InfluxDB, Chronograf, Kapacitor stack for server monitoring
+## Telegraf, InfluxDB, Chronograf, Kapacitor stack for server monitoring
